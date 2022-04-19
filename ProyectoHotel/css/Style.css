@@ -1,0 +1,6 @@
+﻿body {
+    background-image: url(../Imagenes/fondo1.jpg);
+    height: 100vh;
+    background-position: top center;
+    background-size: cover;
+}
